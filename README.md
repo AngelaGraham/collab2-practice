@@ -1,4 +1,4 @@
-# bootstrap-boilerplatereadme
+# from bootstrap-broilerplate2
 ## Cloning a Repo
 
  Steps to clone repo
